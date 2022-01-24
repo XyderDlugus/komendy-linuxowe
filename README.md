@@ -13,3 +13,4 @@ mv
 rm
 rmdir
 which
+apt
